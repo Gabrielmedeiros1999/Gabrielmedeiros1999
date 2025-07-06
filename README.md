@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou Gabriel Medeiros
 
-<!--
-**Gabrielmedeiros1999/Gabrielmedeiros1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Sobre mim
 
-Here are some ideas to get you started:
+- Iniciei o curso de **Análise e Desenvolvimento de Sistemas** em março de 2024  
+  📍 UniSenac – Campus Pelotas  
+- Atualmente no **4º semestre**  
+- Buscando **oportunidades** na área de TI para colocar em prática meus conhecimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias e Ferramentas
+
+| Front‑end         | Back‑end         | Banco de Dados | Ferramentas              |
+| ----------------- | ---------------- | -------------- | ------------------------ |
+| JavaScript        | Node.js          | MySQL          | Git & GitHub             |
+| React             | Express.js       |                | VS Code                  |
+| HTML & CSS        | json‑server      |                | Insomnia                 |
+
+
+## 📫 Como me encontrar
+
+- ✉️ Email: gabrielcaldeiramedeiros1999@gmail.com
+- LinkedIn: [[linkedin.com/in/GabrielMedeiros](https://linkedin.com/in/GabrielMedeiros)  ](https://br.linkedin.com/in/gabriel-caldeira-medeiros-244974284)
+
+> “Aprender é uma jornada sem fim. Vamos codar juntos!” 🚀
