@@ -4,7 +4,7 @@
 
 - Iniciei o curso de **Análise e Desenvolvimento de Sistemas** em março de 2024  
   📍 UniSenac – Campus Pelotas  
-- Atualmente no **4º semestre**  
+- Atualmente no **5º semestre**  
 - Buscando **oportunidades** na área de TI para colocar em prática meus conhecimentos
 
 ## 💻 Tecnologias e Ferramentas
