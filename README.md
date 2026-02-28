@@ -12,13 +12,14 @@
 | Front‑end         | Back‑end         | Banco de Dados | Ferramentas              |
 | ----------------- | ---------------- | -------------- | ------------------------ |
 | JavaScript        | Node.js          | MySQL          | Git & GitHub             |
-| React             | Express.js       |                | VS Code                  |
+| React             | Express.js       | Postgresql     | VS Code                  |
 | HTML & CSS        | json‑server      |                | Insomnia                 |
+| Tailwindcss       |                  |                |                          |
 
 
 ## 📫 Como me encontrar
 
 - ✉️ Email: gabrielcaldeiramedeiros1999@gmail.com
-- LinkedIn: [[linkedin.com/in/GabrielMedeiros](https://linkedin.com/in/GabrielMedeiros)  ](https://br.linkedin.com/in/gabriel-caldeira-medeiros-244974284)
+- LinkedIn: https://br.linkedin.com/in/gabriel-caldeira-medeiros-244974284
 
 > “Aprender é uma jornada sem fim. Vamos codar juntos!” 🚀
