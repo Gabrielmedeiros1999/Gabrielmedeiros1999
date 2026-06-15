@@ -14,7 +14,7 @@
 | JavaScript        | Node.js          | MySQL          | Git & GitHub             |
 | React             | Express.js       | Postgresql     | VS Code                  |
 | HTML & CSS        | json‑server      |                | Insomnia                 |
-| Tailwindcss       |                  |                |                          |
+| Tailwindcss       | Python           |                |                          |
 
 
 ## 📫 Como me encontrar
