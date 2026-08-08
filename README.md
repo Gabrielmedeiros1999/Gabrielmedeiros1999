@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gabriel Medeiros
+# 👋 Olá, eu sou Gabriel Caldeira Medeiros
 
 ## 🎓 Sobre mim
 
