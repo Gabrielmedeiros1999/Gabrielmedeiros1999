@@ -15,6 +15,7 @@
 | React             | Express.js       | Postgresql     | VS Code                  |
 | HTML & CSS        | json‑server      |                | Insomnia                 |
 | Tailwindcss       | Python           |                |                          |
+| TypeScript        |                  |                |                          |
 
 
 ## 📫 Como me encontrar
