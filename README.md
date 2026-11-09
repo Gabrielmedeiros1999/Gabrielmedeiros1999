@@ -14,8 +14,8 @@
 | JavaScript        | Node.js          | MySQL          | Git & GitHub             |
 | React             | Express.js       | Postgresql     | VS Code                  |
 | HTML & CSS        | json‑server      |                | Insomnia                 |
-| Tailwindcss       | Python           |                |                          |
-| TypeScript        |                  |                |                          |
+| Tailwindcss       | Python           |                | FastAPI                  |
+| TypeScript        |                  |                | Prisma ORM               |
 
 
 ## 📫 Como me encontrar
