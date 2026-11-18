@@ -67,7 +67,7 @@ Projeto de desenvolvimento de jogo utilizando React, TypeScript e Phaser, com pe
 ## 📫 Entre em contato
 
 - ✉️ **E-mail:** gabrielcaldeiramedeiros1999@gmail.com
-- 💼 **LinkedIn:** [Gabriel Caldeira Medeiros](www.linkedin.com/in/gabrielcaldeiramedeiros)
+- 💼 **LinkedIn:** [Gabriel Caldeira Medeiros](https://br.linkedin.com/in/gabriel-caldeira-medeiros-244974284)
 - 🐙 **GitHub:** [Gabrielmedeiros1999](https://github.com/Gabrielmedeiros1999)
 
 ---
